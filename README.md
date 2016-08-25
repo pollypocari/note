@@ -16,3 +16,11 @@
 ***
 
 1.  Bird
+
+[Google](http://www.googld.com)
+
+**粗體**
+
+*斜體*
+
+~~刪除線~~
