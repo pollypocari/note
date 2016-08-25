@@ -10,17 +10,10 @@
 > 灰色直線
 
 ***
-
 *   Red
-
 ***
-
 1.  Bird
-
-[Google](http://www.googld.com)
-
+[Markdown](https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/markdown.html)
 **粗體**
-
 *斜體*
-
 ~~刪除線~~
