@@ -10,8 +10,11 @@
 > 灰色直線
 
 ***
+
 *   Red
+
 ***
+
 1.  Bird
 
 [Markdown](https://kingofamani.gitbooks.io/git-teach/content/chapter_6_gitbook/markdown.html)
