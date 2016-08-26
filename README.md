@@ -24,5 +24,7 @@
 ## 背景色漸變
 * Spectrum：[Code](https://github.com/andreacrofts/spectrum-plugin) / [Demo](http://www.andreacrofts.codes/spectrum/) / [教學](http://on-ze.com/archives/5245)
 
+---
+
 ## 技術介紹 blog
 * [株式会社オンズ](http://on-ze.com/blog)
