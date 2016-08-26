@@ -15,6 +15,9 @@
 ## Zoom viewer
 * Luminous：[Code](https://github.com/imgix/luminous) / [教學](http://on-ze.com/archives/5669)
 
+## 跑馬
+* News Ticker：[教學](http://on-ze.com/archives/618)
+
 ## Nav bar (仿 Drawer)
 * Drawer：[Code](https://github.com/blivesta/drawer/) / [Demo](http://git.blivesta.com/drawer/)
 
