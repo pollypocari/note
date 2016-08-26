@@ -10,5 +10,5 @@
 ## Scroll Line
 * Scrolline [Code](https://github.com/anthonyly/Scrolline.js) / [Demo](http://anthonyly.com/jquery.plugins/scrolline/) / [介紹](http://on-ze.com/archives/5948)
 
-## 技術介紹
+## 技術介紹 blog
 * [株式会社オンズ](http://on-ze.com/blog)
