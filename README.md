@@ -7,6 +7,7 @@
 * AOS：[Code](https://github.com/michalsnik/aos) / [Demo](http://michalsnik.github.io/aos/)
 * ScrollTrigger：[Code](https://github.com/terwanerik/ScrollTrigger) / [Demo](https://terwanerik.github.io/ScrollTrigger/) / [教學](http://on-ze.com/archives/5824)
 * ScrollMe：[Code](https://github.com/nckprsn/scrollme) / [Demo](http://scrollme.nckprsn.com/) / [教學](http://on-ze.com/archives/5678)
+* ScrollReveal：[Code](https://github.com/jlmakes/scrollreveal.js) / [Demo](https://scrollrevealjs.org/) / [教學](http://on-ze.com/archives/4477) 
 
 ## Scroll Line
 * Scrolline：[Code](https://github.com/anthonyly/Scrolline.js) / [Demo](http://anthonyly.com/jquery.plugins/scrolline/) / [教學](http://on-ze.com/archives/5948)，適合用在內容網站，置頂顯示顯示閱讀進度。
