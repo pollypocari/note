@@ -2,9 +2,11 @@
 ## Slider
 * Slider Pro：[Code](https://github.com/bqworks/slider-pro) / [Demo](http://bqworks.com/slider-pro/)
 * FlexSlider 2：[Code](https://github.com/woothemes/FlexSlider) / [Demo](http://flexslider.woothemes.com/)
+* bxSlider：[Code](https://github.com/stevenwanderski/bxslider-4) / [Demo](http://bxslider.com/) 
 
 ## Scroll-based animation
 * AOS：[Code](https://github.com/michalsnik/aos) / [Demo](http://michalsnik.github.io/aos/)
+* Animate.css：[Code](https://github.com/daneden/animate.css) / [Demo](https://daneden.github.io/animate.css/)
 * ScrollTrigger：[Code](https://github.com/terwanerik/ScrollTrigger) / [Demo](https://terwanerik.github.io/ScrollTrigger/) / [教學](http://on-ze.com/archives/5824)
 * ScrollMe：[Code](https://github.com/nckprsn/scrollme) / [Demo](http://scrollme.nckprsn.com/) / [教學](http://on-ze.com/archives/5678)
 * ScrollReveal：[Code](https://github.com/jlmakes/scrollreveal.js) / [Demo](https://scrollrevealjs.org/) / [教學](http://on-ze.com/archives/4477) 
