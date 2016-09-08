@@ -43,7 +43,7 @@
 
 ---
 
-## 技術介紹 blog
+## 技術 blog
 * [株式会社オンズ](http://on-ze.com/blog)
 
 ## CSS property order
