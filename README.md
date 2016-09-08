@@ -46,6 +46,6 @@
 ## 技術介紹 blog
 * [株式会社オンズ](http://on-ze.com/blog)
 
-## 編碼規範
+## 編碼宣告順序
 * [通順一致的CSS編寫原則](https://github.com/necolas/idiomatic-css/tree/master/translations/zh-TW)
 * [編碼規範 by @mdo](http://codeguide.bootcss.com/)
