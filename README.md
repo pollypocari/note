@@ -1,4 +1,7 @@
 # Note
+## Loader
+* jpreloader：[Code](https://github.com/kennyooi/jpreloader) / [Demo](http://www.inwebson.com/demo/jpreloader-v2/)
+
 ## Slider
 * Slider Pro：[Code](https://github.com/bqworks/slider-pro) / [Demo](http://bqworks.com/slider-pro/)
 * FlexSlider 2：[Code](https://github.com/woothemes/FlexSlider) / [Demo](http://flexslider.woothemes.com/)
