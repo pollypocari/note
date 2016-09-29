@@ -35,6 +35,9 @@
 ## 背景色漸變
 * Spectrum：[Code](https://github.com/andreacrofts/spectrum-plugin) / [Demo](http://www.andreacrofts.codes/spectrum/) / [教學](http://on-ze.com/archives/5245)
 
+## Cookie
+* jquery-cookie：[Code](https://github.com/carhartl/jquery-cookie)
+
 ---
 
 #optimization
