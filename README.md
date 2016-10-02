@@ -58,3 +58,8 @@
 * [通順一致的CSS編寫原則](https://github.com/necolas/idiomatic-css/tree/master/translations/zh-TW)
 * [編碼規範 by @mdo](http://codeguide.bootcss.com/)
 * [Poll Results: How do you order your CSS properties?](https://css-tricks.com/poll-results-how-do-you-order-your-css-properties/)
+
+---
+
+## Design
+* [SVG patterns](http://www.heropatterns.com/)
