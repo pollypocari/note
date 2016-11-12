@@ -1,45 +1,46 @@
 # Note
 ## Loader
-* jpreloader：[Code](https://github.com/kennyooi/jpreloader) / [Demo](http://www.inwebson.com/demo/jpreloader-v2/)
+* jpreloader：[GitHub](https://github.com/kennyooi/jpreloader) / [Demo](http://www.inwebson.com/demo/jpreloader-v2/)
 
 ## Slider
-* Slider Pro：[Code](https://github.com/bqworks/slider-pro) / [Demo](http://bqworks.com/slider-pro/)
-* FlexSlider 2：[Code](https://github.com/woothemes/FlexSlider) / [Demo](http://flexslider.woothemes.com/)
-* bxSlider：[Code](https://github.com/stevenwanderski/bxslider-4) / [Demo](http://bxslider.com/) 
+* Slider Pro：[GitHub](https://github.com/bqworks/slider-pro) / [Demo](http://bqworks.com/slider-pro/)
+* FlexSlider 2：[GitHub](https://github.com/woothemes/FlexSlider) / [Demo](http://flexslider.woothemes.com/)
+* bxSlider：[GitHub](https://github.com/stevenwanderski/bxslider-4) / [Demo](http://bxslider.com/) 
+* Slick：[GitHub](https://github.com/kenwheeler/slick/) / [Demo](http://kenwheeler.github.io/slick/)
 
 ## Animation
-* Animate.css：[Code](https://github.com/daneden/animate.css) / [Demo](https://daneden.github.io/animate.css/)
-* AniJS：[Code](https://github.com/anijs/anijs/) / [Demo](http://anijs.github.io/)
+* Animate.css：[GitHub](https://github.com/daneden/animate.css) / [Demo](https://daneden.github.io/animate.css/)
+* AniJS：[GitHub](https://github.com/anijs/anijs/) / [Demo](http://anijs.github.io/)
 
 ## Scroll-based animation
-* AOS：[Code](https://github.com/michalsnik/aos) / [Demo](http://michalsnik.github.io/aos/)
-* ScrollTrigger：[Code](https://github.com/terwanerik/ScrollTrigger) / [Demo](https://terwanerik.github.io/ScrollTrigger/) / [教學](http://on-ze.com/archives/5824)
-* ScrollMe：[Code](https://github.com/nckprsn/scrollme) / [Demo](http://scrollme.nckprsn.com/) / [教學](http://on-ze.com/archives/5678)
-* ScrollReveal：[Code](https://github.com/jlmakes/scrollreveal.js) / [Demo](https://scrollrevealjs.org/) / [教學](http://on-ze.com/archives/4477) 
+* AOS：[GitHub](https://github.com/michalsnik/aos) / [Demo](http://michalsnik.github.io/aos/)
+* ScrollTrigger：[GitHub](https://github.com/terwanerik/ScrollTrigger) / [Demo](https://terwanerik.github.io/ScrollTrigger/) / [教學](http://on-ze.com/archives/5824)
+* ScrollMe：[GitHub](https://github.com/nckprsn/scrollme) / [Demo](http://scrollme.nckprsn.com/) / [教學](http://on-ze.com/archives/5678)
+* ScrollReveal：[GitHub](https://github.com/jlmakes/scrollreveal.js) / [Demo](https://scrollrevealjs.org/) / [教學](http://on-ze.com/archives/4477) 
 
 ## Scroll Line
-* Scrolline：[Code](https://github.com/anthonyly/Scrolline.js) / [Demo](http://anthonyly.com/jquery.plugins/scrolline/) / [教學](http://on-ze.com/archives/5948)
+* Scrolline：[GitHub](https://github.com/anthonyly/Scrolline.js) / [Demo](http://anthonyly.com/jquery.plugins/scrolline/) / [教學](http://on-ze.com/archives/5948)
   *  適合用在內容網站，置頂顯示顯示閱讀進度
   *  實際運用：[First Round Review](http://firstround.com/review/defining-product-design-a-dispatch-from-airbnbs-design-chief/)
   *  實際運用：[關鍵評論網](https://www.thenewslens.com/article/49872)
 
 ## Zoom viewer
-* Luminous：[Code](https://github.com/imgix/luminous) / [教學](http://on-ze.com/archives/5669)
+* Luminous：[GitHub](https://github.com/imgix/luminous) / [教學](http://on-ze.com/archives/5669)
 
 ## 跑馬
 * News Ticker：[教學](http://on-ze.com/archives/618)
 
 ## Nav bar (仿 Drawer)
-* Drawer：[Code](https://github.com/blivesta/drawer/) / [Demo](http://git.blivesta.com/drawer/)
+* Drawer：[GitHub](https://github.com/blivesta/drawer/) / [Demo](http://git.blivesta.com/drawer/)
 
 ## 背景色漸變
-* Spectrum：[Code](https://github.com/andreacrofts/spectrum-plugin) / [Demo](http://www.andreacrofts.codes/spectrum/) / [教學](http://on-ze.com/archives/5245)
+* Spectrum：[GitHub](https://github.com/andreacrofts/spectrum-plugin) / [Demo](http://www.andreacrofts.codes/spectrum/) / [教學](http://on-ze.com/archives/5245)
 
 ## Cookie
-* jquery-cookie：[Code](https://github.com/carhartl/jquery-cookie)
+* jquery-cookie：[GitHub](https://github.com/carhartl/jquery-cookie)
 
 ## 照片裁切
-* Cropper：[Code](https://github.com/fengyuanchen/cropper) / [Demo](https://fengyuanchen.github.io/cropper/)
+* Cropper：[GitHub](https://github.com/fengyuanchen/cropper) / [Demo](https://fengyuanchen.github.io/cropper/)
 
 ---
 
