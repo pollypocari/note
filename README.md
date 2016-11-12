@@ -38,6 +38,9 @@
 ## Cookie
 * jquery-cookie：[Code](https://github.com/carhartl/jquery-cookie)
 
+## 照片裁切
+* Cropper：[Code](https://github.com/fengyuanchen/cropper) / [Demo](https://fengyuanchen.github.io/cropper/)
+
 ---
 
 #optimization
