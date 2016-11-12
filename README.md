@@ -42,6 +42,9 @@
 ## 照片裁切
 * Cropper：[GitHub](https://github.com/fengyuanchen/cropper) / [Demo](https://fengyuanchen.github.io/cropper/)
 
+## File Uploader
+* Plupload
+
 ## Pie Chart
 * EASY PIE CHART：[GitHub](https://github.com/rendro/easy-pie-chart) / [Demo](https://rendro.github.io/easy-pie-chart/)
 
