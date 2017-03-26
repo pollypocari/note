@@ -49,6 +49,9 @@
 ## Pie Chart
 * EASY PIE CHART：[GitHub](https://github.com/rendro/easy-pie-chart) / [Demo](https://rendro.github.io/easy-pie-chart/)
 
+## QR Code 產生器
+* jquery-qrcode：[GitHub](https://github.com/jeromeetienne/jquery-qrcode)
+
 ---
 
 #optimization
