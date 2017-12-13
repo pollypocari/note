@@ -43,6 +43,9 @@
 ## 照片裁切
 * Cropper：[GitHub](https://github.com/fengyuanchen/cropper) / [Demo](https://fengyuanchen.github.io/cropper/)
 
+## 抓圖片背景色
+* jquery-fillcolor：[教學](https://www.jqueryscript.net/other/Change-Background-Color-Based-On-Image-Color-jQuery-fillcolor.html)
+
 ## File Uploader
 * Plupload
 
