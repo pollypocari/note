@@ -18,6 +18,9 @@
 * ScrollMe：[GitHub](https://github.com/nckprsn/scrollme) / [Demo](http://scrollme.nckprsn.com/) / [教學](http://on-ze.com/archives/5678)
 * ScrollReveal：[GitHub](https://github.com/jlmakes/scrollreveal.js) / [Demo](https://scrollrevealjs.org/) / [教學](http://on-ze.com/archives/4477) 
 
+## Smooth Scroll
+* Smooth Scroll：[smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
+
 ## Scroll Line
 * Scrolline：[GitHub](https://github.com/anthonyly/Scrolline.js) / [Demo](http://anthonyly.com/jquery.plugins/scrolline/) / [教學](http://on-ze.com/archives/5948)
   *  適合用在內容網站，置頂顯示顯示閱讀進度
