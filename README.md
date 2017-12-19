@@ -33,6 +33,9 @@
 ## 跑馬
 * News Ticker：[教學](http://on-ze.com/archives/618)
 
+## 時間倒數
+* Odomater：[Demo](http://github.hubspot.com/odometer/docs/welcome/)
+
 ## Nav bar
 * Drawer：[GitHub](https://github.com/blivesta/drawer/) / [Demo](http://git.blivesta.com/drawer/)
 * mmenu：[Demo](http://mmenu.frebsite.nl)
