@@ -55,6 +55,9 @@
 ## File Uploader
 * Plupload
 
+## Popup / Lightbox
+* Magnific-Popup：[GitHub](https://github.com/dimsemenov/Magnific-Popup) / [Demo](http://dimsemenov.com/plugins/magnific-popup/)
+
 ## Pie Chart
 * EASY PIE CHART：[GitHub](https://github.com/rendro/easy-pie-chart) / [Demo](https://rendro.github.io/easy-pie-chart/)
 
