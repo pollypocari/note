@@ -40,6 +40,9 @@
 * Drawer：[GitHub](https://github.com/blivesta/drawer/) / [Demo](http://git.blivesta.com/drawer/)
 * mmenu：[Demo](http://mmenu.frebsite.nl)
 
+## Gallery
+* PhotoSwipe (手機體驗很好)：[GitHub](https://github.com/dimsemenov/photoswipe) / [Demo](http://photoswipe.com)
+
 ## 背景色漸變
 * Spectrum：[GitHub](https://github.com/andreacrofts/spectrum-plugin) / [Demo](http://www.andreacrofts.codes/spectrum/) / [教學](http://on-ze.com/archives/5245)
 
