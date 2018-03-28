@@ -27,6 +27,11 @@
   *  實際運用：[First Round Review](http://firstround.com/review/defining-product-design-a-dispatch-from-airbnbs-design-chief/)
   *  實際運用：[關鍵評論網](https://www.thenewslens.com/article/49872)
 
+## Filter
+* Isotope：[GitHub](https://github.com/metafizzy/isotope) / [Demo](https://isotope.metafizzy.co/)
+* Shuffle.js：[GitHub](https://github.com/Vestride/Shuffle) / [Demo](https://vestride.github.io/Shuffle/)
+* codyhouse content-filter：[Demo](https://codyhouse.co/demo/content-filter/)
+
 ## Zoom viewer
 * Luminous：[GitHub](https://github.com/imgix/luminous) / [教學](http://on-ze.com/archives/5669)
 
