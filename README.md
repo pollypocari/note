@@ -34,6 +34,7 @@
 
 ## Zoom viewer
 * Luminous：[GitHub](https://github.com/imgix/luminous) / [教學](http://on-ze.com/archives/5669)
+* MediumLightbox (Medium 圖片放大效果)：[GitHub](https://github.com/davidecalignano/MediumLightbox) / [教學](https://www.hongkiat.com/blog/medium-lightbox-image-zoom/)
 
 ## 跑馬
 * News Ticker：[教學](http://on-ze.com/archives/618)
