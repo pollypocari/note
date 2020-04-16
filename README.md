@@ -1,4 +1,7 @@
 # Note
+## Set index as root
+* Add .nojekyll
+
 ## Loader
 * jpreloader：[GitHub](https://github.com/kennyooi/jpreloader) / [Demo](http://www.inwebson.com/demo/jpreloader-v2/)
 
